@@ -1,0 +1,9 @@
+gradio>=4.0.0
+pandas
+numpy
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
