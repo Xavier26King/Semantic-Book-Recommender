@@ -25,7 +25,7 @@ An AI-powered book recommendation dashboard that uses semantic search to find bo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/semantic-book-recommender.git
+   git clone https://github.com/Xavier26King/Semantic-Book-Recommender.git
    cd semantic-book-recommender
    ```
 
